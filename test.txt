@@ -1,0 +1,11 @@
+[Adblock 2.0]
+! Version: 202105261403
+! Title: demo
+! Last modified: 26 May 2021 14:03 UTC+7
+! Expires: 1 minutes (update frequency)
+!
+! ABPVN List filter
+! Copyright: ABPVN
+! Homepage: https://github.com/
+@@||video.kenh14.vn^$div[class*="downloads"]
+@@||video.kenh14.vn^document
