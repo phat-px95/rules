@@ -1,11 +1,8 @@
-[Adblock 2.0]
-! Version: 202105261403
-! Title: demo
-! Last modified: 26 May 2021 14:03 UTC+7
+[Adblock Plus 2.0]
+! Version: 201909040750
+! Title: CocCoc standard whitelist
+! Last modified: 04 Sep 2019 07:50 UTC
 ! Expires: 1 minutes (update frequency)
-!
-! ABPVN List filter
-! Copyright: ABPVN
-! Homepage: https://github.com/
+! Homepage: https://coccoc.com/
 @@||video.kenh14.vn^$div[class*="downloads"]
 @@||video.kenh14.vn^document
